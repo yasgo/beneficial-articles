@@ -1,1 +1,25 @@
 # beneficial-articles
+
+* https://aykutkardas.medium.com/set-s%C4%B1n%C4%B1f%C4%B1-nedir-javascript-44d8b65f4d21 <p>Set Sınıfı Nedir? — JavaScript</p>
+
+* https://medium.com/@tunaytoksoz/yazilim-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BC-sdlc-ve-modelleri%CC%87-c3fe40f6e4e8 <p>YAZILIM YAŞAM DÖNGÜSÜ (SDLC) VE MODELLERİ</p>
+
+* https://seyler.eksisozluk.com/silikon-vadisinde-calismak-isteyen-yazilimcilarin-soru-bankasi-leetcode <p>Silikon Vadisi'nde Çalışmak İsteyen Yazılımcıların Soru Bankası: LeetCode</p>
+
+* https://oguzkilic.medium.com/react-uygulamalar%C4%B1nda-tdd-48f93335d8fb <p>React Uygulamalarında TDD</p>
+
+* https://zeo.org/tr/blog/pwa-ve-seo-kapsamli-pwa-rehberi/ <p>PWA ve SEO | Kapsamlı PWA Rehberi</p>
+
+* https://www.emrealadag.com/docker-nedir.html <p>Docker Nedir, Ne İşe Yarar?</p>
+
+* https://medium.com/codefiction/javascriptte-promise-kullan%C4%B1m%C4%B1-ccca1123989a <p>Javascript’te Promise Kullanımı</p>
+
+* https://medium.com/@alicavusoglu/vue-js-ile-event-bus-yap%C4%B1s%C4%B1-8a98335a60d6 <p>Vue.js ile Event Bus Yapısı</p>
+
+* https://medium.com/@busramemis/css-methodology-smacss-2116ac5e77d7 <p>SMACSS Nedir?</p>
+
+* https://medium.com/@busramemis/css-methodology-oocss-3af7c7f8fefa <p>OOCSS Nedir ?</p>
+
+* https://medium.com/@m.cantonbul/angular-8-pipe-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-e01c8ba7adf0 <p>Angular Pipe Nedir? Nasıl Kullanılır?</p>
+
+* https://stackoverflow.com/questions/18422223/bootstrap-3-modal-vertical-position-center <p>Bootstrap 3 modal vertical position center</p>
