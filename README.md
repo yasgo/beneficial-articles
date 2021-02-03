@@ -23,3 +23,5 @@
 * https://medium.com/@m.cantonbul/angular-8-pipe-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-e01c8ba7adf0 <p>Angular Pipe Nedir? Nasıl Kullanılır?</p>
 
 * https://stackoverflow.com/questions/18422223/bootstrap-3-modal-vertical-position-center <p>Bootstrap 3 modal vertical position center</p>
+
+* https://github.com/mkg0/HEAD <p>Sayfanızın <head> bölümü içerisine girebilecek her şeyin listesi.</p>
