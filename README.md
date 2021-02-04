@@ -25,3 +25,5 @@
 * https://stackoverflow.com/questions/18422223/bootstrap-3-modal-vertical-position-center <p>Bootstrap 3 modal vertical position center</p>
 
 * https://github.com/mkg0/HEAD <p>Sayfanızın <head> bölümü içerisine girebilecek her şeyin listesi.</p>
+  
+* https://stackoverflow.com/questions/43115246/how-to-detect-when-a-image-is-loaded-that-is-provided-via-props-and-change-sta <p>React için image etiketine yükleniyor animasyonu yapımı.</p>
