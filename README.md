@@ -8,6 +8,8 @@
 
 * https://oguzkilic.medium.com/react-uygulamalar%C4%B1nda-tdd-48f93335d8fb <p>React Uygulamalarında TDD</p>
 
+* https://tugrulbayrak.medium.com/jwt-json-web-tokens-nedir-nasil-calisir-5ca6ebc1584a <p>JWT(JSON Web Tokens) Nedir? Nasıl Çalışır?</p>
+
 * https://zeo.org/tr/blog/pwa-ve-seo-kapsamli-pwa-rehberi/ <p>PWA ve SEO | Kapsamlı PWA Rehberi</p>
 
 * https://www.emrealadag.com/docker-nedir.html <p>Docker Nedir, Ne İşe Yarar?</p>
