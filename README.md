@@ -14,6 +14,8 @@
 
 * https://www.emrealadag.com/docker-nedir.html <p>Docker Nedir, Ne İşe Yarar?</p>
 
+* https://mbilgil0.medium.com/get-vs-post-deb3000ff4d7 <p>GET ve POST arasındaki farklar.</p>
+
 * https://medium.com/turuncu-internet-solutions/websocket-nedir-cbc2e8485ff7 <p>WebSocket Nedir?</p>
 
 * https://medium.com/codefiction/javascriptte-promise-kullan%C4%B1m%C4%B1-ccca1123989a <p>Javascript’te Promise Kullanımı</p>
