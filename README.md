@@ -35,3 +35,7 @@
 * https://stackoverflow.com/questions/43115246/how-to-detect-when-a-image-is-loaded-that-is-provided-via-props-and-change-sta <p>React için image etiketine yükleniyor animasyonu yapımı.</p>
 
 * https://tr.wikipedia.org/wiki/TOEFL & https://tr.wikipedia.org/wiki/IELTS <p>İngilizce yeterlilik sınavları.</p>
+
+* https://github.com/facebook/create-react-app/issues/9984 <p>React refresh problemi ve çözümü.</p>
+
+
