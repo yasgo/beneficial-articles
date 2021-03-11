@@ -38,4 +38,4 @@
 
 * https://github.com/facebook/create-react-app/issues/9984 <p>React refresh problemi ve çözümü.</p>
 
-
+* https://stackoverflow.com/questions/40018606/auto-width-of-flex-column <p>Flex ile otomatik genişlik.</p>
