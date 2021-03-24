@@ -39,3 +39,5 @@
 * https://github.com/facebook/create-react-app/issues/9984 <p>React refresh problemi ve çözümü.</p>
 
 * https://stackoverflow.com/questions/40018606/auto-width-of-flex-column <p>Flex ile otomatik genişlik.</p>
+
+* https://isagul.medium.com/javascriptte-async-await-kullan%C4%B1m%C4%B1-95be3d16b62a <p>Async fonksiyon kullanımı.</p>
