@@ -41,3 +41,5 @@
 * https://stackoverflow.com/questions/40018606/auto-width-of-flex-column <p>Flex ile otomatik genişlik.</p>
 
 * https://isagul.medium.com/javascriptte-async-await-kullan%C4%B1m%C4%B1-95be3d16b62a <p>Async fonksiyon kullanımı.</p>
+
+* https://nuriyavuz2-71.medium.com/cross-site-request-forgery-nedir-a40364c6076b <p>CSRF zafiyeti</p>
